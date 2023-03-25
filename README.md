@@ -23,7 +23,7 @@ Gabriela Vargas.
 2) Build Networks: run MAMC 
 - 1st set of DCMs: Model 1-model 14
 - Compare models: Output = data/model_space.m
-- Specify family and Compare Output = data/BMS2.m
+- Specify family and Compare  = [/BMS_3.2.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/08dcc1d71c8ef2327110c749b85d1ff70f413186/DCM_files/matfiles_reproduce_article_results/BMS_3.2.mat)
 
 3) Build Networks: run MAMCMB
 - 2nd set of DCMs:  Model 1-model 13
