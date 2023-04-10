@@ -14,7 +14,7 @@ Gabriela Vargas.
 
 2) Plots: 
 - [Reproduce bars](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/f66852e29f986e07c8afe795ea7a3f52bd2c8457/reproduce_plots/generate_bars_modelevidence.m)
-- Reproduce matrices
+- [Reproduce matrices](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/828734cfc507162133317fb9b7d64d8430f49931/reproduce_plots/generate_matrixDCM.m)
 
 
 
