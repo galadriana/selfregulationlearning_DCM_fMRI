@@ -13,7 +13,7 @@ Gabriela Vargas.
 - Bayesian model average: [BMA.m](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/8c7a6d2a293332336f7b93b0f05e83d5699e034f/DCM_outputs/BMA/BMS_BMA_fromsecondmodelspace.mat)
 
 2) Plots: 
-- Reproduce bars
+- [Reproduce bars](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/f66852e29f986e07c8afe795ea7a3f52bd2c8457/reproduce_plots/generate_bars_modelevidence.m)
 - Reproduce matrices
 
 
