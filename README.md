@@ -9,7 +9,7 @@ Gabriela Vargas.
 
 1) DCM Matfiles: 
 - 1st family-inference : [model_space.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/79abf78c3de63bfcd9ce25e67c64e82059f106ac/DCM_outputs/model_space/model_space_firstmodelspace.mat) and [BMS.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/3fa77eaca6ae989cc6c86ba3ae75df6e4cd51cf4/DCM_outputs/model_space/BMS_firstmodelspace.mat).  
-- 2nd family-inferernce: [model_space.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/4faf38712ea941b8a99cf7462b21e62689c8e019/DCM_outputs/model_space/model_space_secondmodelspace.mat) and BMS.mat
+- 2nd family-inferernce: [model_space.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/4faf38712ea941b8a99cf7462b21e62689c8e019/DCM_outputs/model_space/model_space_secondmodelspace.mat) and [BMS.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/83ec4c6484bf785b5449beacd66290edfe3d4329/DCM_outputs/model_space/BMS_secondmodelspace.mat)
 - Bayesian model average: BMA.m
 
 2) Plots: 
