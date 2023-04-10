@@ -1,7 +1,7 @@
 # Selfregulationlearning_DCM_fMRI
 This repository contains the code used to analyze differences in effective brain connectivity associated with neurofeedback training assessed with DCM fMRI. 
 
-Please contact us at this e-mail address if you have any question: gabriela.vargas.ag@gmail.com.
+Please contact at this e-mail address if you have any question: gabriela.vargas.ag@gmail.com.
 Gabriela Vargas.
 
 
