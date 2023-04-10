@@ -8,7 +8,7 @@ Gabriela Vargas.
 ## Data to replicate outcomes
 
 1) DCM Matfiles: 
-- 1st family-inference : model_space.mat and BMS.mat
+- 1st family-inference : model_space.mat and [BMS.mat](https://github.com/galadriana/selfregulationlearning_DCM_fMRI/blob/3fa77eaca6ae989cc6c86ba3ae75df6e4cd51cf4/DCM_outputs/model_space/BMS_firstmodelspace.mat).  
 - 2nd family-inferernce: model_space.mat and BMS.mat
 - Bayesian model average: BMA.m
 
